@@ -7,7 +7,6 @@ class bsGenerator:
                  , volatility = 0.2
                  , timeToExpiry = 1.0
                  , riskFreeRate = 0.0
-                 , numPaths = 1
                  , numTradingDates = 100
                  , numBatches = 100
                  , batchSize = 128
